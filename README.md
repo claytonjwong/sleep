@@ -15,7 +15,7 @@
 
 ### Chapter 2: Caffeine, Jet Lag, and Melatonin
 
-2 disparate systems determine when to be asleep or awake:
+#### 2 disparate systems determine when to be asleep or awake:
 
 **1. Adenosine:** chemical which accumulates while we are awake
 * Produces the urge to sleep
@@ -28,7 +28,8 @@
 
 * **Thalamus:** guards the consciousness brain from external stimulus
 
-Humans cycle through 2 disparate sleep states:
+#### Humans cycle through 2 disparate sleep states:
+
 **1. NREM:** non-rapid eye movement
 **2. REM:** rapid eye movement
 
