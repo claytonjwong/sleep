@@ -23,3 +23,22 @@
 
 **2. Suprachaismatic necleus:** circadian rhythm is our internal 24-hour clock for day/night
 * Starts/stops producing melatonin
+
+### Chapter 3: Defining and Generating Sleep
+
+* **Thalamus:** guards the consciousness brain from external stimulus
+
+Humans cycle through 2 disparate sleep states:
+**1. NREM:** non-rapid eye movement
+**2. REM:** rapid eye movement
+
+#### NREM Sleep
+
+* Occurs early in the sleep process
+* Removes irrelevant information from the brain
+
+#### REM Sleep
+
+* Occurs late in the sleep process
+* Fortifies relevant information in the brain
+* Brain paralyzes the body to dream safely
