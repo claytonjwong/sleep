@@ -12,3 +12,14 @@
   * Shorter lifespan
   * Physical + mental illness
 * Sleep rejuvenates the body + mind
+
+### Chapter 2: Caffeine, Jet Lag, and Melatonin
+
+2 disparate systems determine when to be asleep or awake:
+
+**1. Adenosine:** chemical which accumulates while we are awake
+* Produces the urge to sleep
+* Caffiene blocks adenosine receptors in the brain
+
+**2. Suprachaismatic necleus:** circadian rhythm is our internal 24-hour clock for day/night
+* Starts/stops producing melatonin
