@@ -30,8 +30,8 @@
 
 #### Humans cycle through 2 disparate sleep states:
 
-**1. NREM:** non-rapid eye movement
-**2. REM:** rapid eye movement
+1. **NREM:** non-rapid eye movement
+2. **REM:** rapid eye movement
 
 #### NREM Sleep
 
