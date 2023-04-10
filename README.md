@@ -67,3 +67,23 @@
 
 * rational control of emotions for socially cooperative relationships
 * creativity from associations between unrelated information
+
+### Chapter 5: Changes in Sleep Across the Life Span
+
+* **Synaptogenesis:** creates millions of synapses between neurons
+* Unborn babies are awake in the womb for 2-3 hours each day during the final trimester
+  * REM sleep is greatest when the brain is under greatest construction
+  * A lack of REM sleep in newborns hinders brain development
+    * Autistic kids have ~30-50% less REM sleep
+  * Alcohol powerfully supresses REM sleep and adversely affects REM sleep quality
+
+#### NREM vs REM Sleep % Ratios
+
+* Changes in deep NREM sleep always proceeds major developmental stages of the brain
+  * Newborns: 50% NREM + 50% REM
+  * Children: 70% NREM + 30% REM
+  * Adults: 80% NREM + 20% REM
+* Older folks experience lower sleep quality due to more sleep fragmentation
+  * weaker bladders make older folks need to wake up more often to urinate
+  * poor memory and poor sleep are tightly coupled
+  * poor sleep in older folks is often an overlooked culprit to mental illness
