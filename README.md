@@ -43,3 +43,27 @@
 * Occurs late in the sleep process
 * Fortifies relevant information in the brain
 * Brain paralyzes the body to dream safely
+
+### Chapter 4: Ape Beds, Dinosaurs, and Napping with Half a Brain
+
+* Different species need different amounts of sleep
+  * Humans have a complex nervous system which requires more sleep to maintain
+* Sleep during is a balancing act between:
+  * Survival during waking state
+  * Restoration + maintenance of mind + body
+* Humans cannot "make up" for lost sleep time
+
+#### Monophasic vs Biphasic Sleep Patterns
+
+* **Monophasic:** a single, long sleep
+* **Biphasic:** a single, long sleep (plus a short afternoon nap)
+
+#### Humans are Special
+
+* ~20-25% of human sleep is dedicated to REM sleep
+* ~9% of other primates sleep is dedicated to REM sleep
+
+#### Why REM Sleep is Important
+
+* rational control of emotions for socially cooperative relationships
+* creativity from associations between unrelated information
