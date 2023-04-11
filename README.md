@@ -107,3 +107,17 @@
     * Playing piano == feeling + flow
   * Sleep spindles place a disportional emphasis on the parts of the brain which have worked the hardest at learning during the day
 * Creativity is enhanced by REM sleep which associates disparate information in novel ways to improve problem solving capabilities
+
+### Chapter 7: Too Extreme for the Guinness Book of World Records
+
+* Sleep loss produces physical and mental illness
+* Every hour someone in the US dies from a car accident due to fatigue
+  * We underestimate our sleep imparements
+  * After 16 hours of wakefullness, the brain begins to fail
+    * The mind cannot accurately sense sleep deprivation when sleep deprived
+* Insufficient sleep leads to bad moods and emotional reactivity
+  * The amygdala is overactivated and the brain vascillates between extremes of positive and negative emotions
+    * Sleep deprivation in bipolar folks may trigger the disorder
+      * Manic state
+      * Depressive state
+* Lack of sleep increases agression, bullying, and other behavioral problems
