@@ -87,3 +87,23 @@
   * weaker bladders make older folks need to wake up more often to urinate
   * poor memory and poor sleep are tightly coupled
   * poor sleep in older folks is often an overlooked culprit to mental illness
+
+## Part 2: Why Should You Sleep?
+
+### Chapter 6: Your Mother and Shakespeare Knew
+
+* Sleep is mandatory for learning + retention and physical + mental health
+  * Each stage of sleep (light NREM, deep NREM, and REM sleep) provide different benefits at different times at night
+  * Memory is consolidated from the hippocampus (the mind's short-term memory store) into the neocortex (the mind's long-term memory store) via the slow brainwaves of deep NREM sleep
+    * Boosting electrical quality of deep-sleep brainwaves helps with memory + recall
+    * Auditory stimulation improves memory by increasing the power of the slow brainwaves
+    * Slow rocking increases the depth of deep sleep
+* REM sleep removes redundant information in the brain
+  * "this is important" vs. "this is irrelevant"
+* Muscle memory is brain memory
+  * Practice + sleep == improvement
+  * Motor memories are shifted to brain circuits below our level of consciousness
+    * The brain automates movement routines
+    * Playing piano == feeling + flow
+  * Sleep spindles place a disportional emphasis on the parts of the brain which have worked the hardest at learning during the day
+* Creativity is enhanced by REM sleep which associates disparate information in novel ways to improve problem solving capabilities
