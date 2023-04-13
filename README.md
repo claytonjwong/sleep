@@ -121,3 +121,18 @@
       * Manic state
       * Depressive state
 * Lack of sleep increases agression, bullying, and other behavioral problems
+
+### Chapter 8: Cancer, Heart Attacks, and a Shorter Life
+
+* The shorter we sleep, the shorter our lifespan
+  * We less sleep we are more likely to have:
+    * heart attack
+    * calcification of the coronary arteries
+    * overactive sympathetic nervous system
+      * adversely affects: cortisol, respiration, immune function, blood pressure, heart rate, glucose levels (diabetes), microbiome
+      * reproductive systems: testosterone, sperm count, menstral cycles, hormones, organs
+      * less leptin (feeling full)
+      * more ghrelin (feeling hungry) and endocannabindoids (desire to snack)
+* Sleep helps the body battle infection and sickness
+  * The immune system activates the sleep system to help the body recover
+  * Provides a more powerful antibody response to vaccines
