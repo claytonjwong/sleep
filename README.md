@@ -136,3 +136,24 @@
 * Sleep helps the body battle infection and sickness
   * The immune system activates the sleep system to help the body recover
   * Provides a more powerful antibody response to vaccines
+
+## How and Why We Dream
+
+### Chapter 9: Routinely Psychotic
+
+During REM sleep our mental experiences include:
+
+1. hallucinating
+2. delusional
+3. disoriented
+4. emotionally vacillating (affectively labile)
+5. suffering from amnesia
+
+During REM sleep, four main clusters of the brain are up to 30% activate:
+
+1. Visuospational regions at the back of the brain
+2. Motor cortex
+3. Hippocampus
+4. Amygdala and cigulate cortex
+
+During REM sleep, the prefrontal cortex is deactivated.
