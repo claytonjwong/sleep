@@ -157,3 +157,25 @@ During REM sleep, four main clusters of the brain are up to 30% activate:
 4. Amygdala and cigulate cortex
 
 During REM sleep, the prefrontal cortex is deactivated.
+
+### Chapter 10: Dreaming as Overnight Therapy
+
+Benefits from REM sleep + dreaming:
+1. Emotional and mental health
+2. Problem solving and creativity
+
+Noradrenaline is completely shut off during REM sleep and is the brain's anxiety producing chemical equivalent to the body's adrenaline 
+* REM sleep is the only time the brain is without noradrenaline
+* Emotional memory reactivation occurs when the brain is free from noradrenaline
+  * Removes our emotional edginess by dampening emotional reactions
+
+REM sleep helps us to *remember* and *forget*:
+1. we remember relevant information
+2. we forget irrelevant information and dissolve painful emotional memories
+  a. allows us to move forward into new emotional futures
+  b. not enslaved by traumatic emotional past
+
+REM sleep helps us to recalibrate the regions of our brain which are responsible for reading and decoding emotional signals from others (especially their facial expressions).
+  * Lack of REM sleep results in sub-optimally identifying friends vs. foes
+  * REM sleep is mandatory to accurately comprehend the social world
+    * May result in inappropriate decisions and actions
