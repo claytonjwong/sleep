@@ -189,3 +189,21 @@ REM sleep helps us to recalibrate the regions of our brain which are responsible
 * Lucid dreaming occurs when we are aware we are dreaming
   * Control and manipulate the experience
   * May be next step in human evolution to focus the problem solving capabilities of dreaming
+
+## From Sleeping Pills to Society Transformed
+
+### Chapter 12: Things That Go Bump in the Night
+
+Humans function optimally with ~16 hours of wakefulness and ~8 hour of sleep each day.
+
+* **Sumnambulism:** sleep (somnus) disorders
+  * Sleepwalking
+    * State of mixed consciousness (neither asleep nor awake)
+  * Insomnia
+    * common triggers are emotional concerns and distress (anxiety)
+    * chronic activation of the fight-or-flight response
+      * brain cannot "shut down" from worries and rumination
+      * recursive loops of emotional programs combined with retrospective and prospective memory loops, keep playing in the mind
+  * Narcoleptic
+    * Sleep/wake switch exists in the hypothalamus via orexin (a neurotransmitter)
+    * Sleep/wake switch is never full on or off
