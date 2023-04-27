@@ -207,3 +207,21 @@ Humans function optimally with ~16 hours of wakefulness and ~8 hour of sleep eac
   * Narcoleptic
     * Sleep/wake switch exists in the hypothalamus via orexin (a neurotransmitter)
     * Sleep/wake switch is never full on or off
+
+### Chapter 13: iPads, Factory Whistles, and Nightcaps
+
+Five causes of less sleep in modern society:
+
+1. Lightbulbs and LEDs from electronics
+  a. even a small amount of light can confuse the suprachiasmatic nucleus to believe it is still day during night
+  b. delays the release of melatonin
+2. Consistent indoor temperatures via heating/cooling
+  a. our bodies evolved outdoors and expect a lower temperature during the night
+  b. when our core is colder, we fall asleep faster
+3. Caffiene
+  a. blocks adenosine receptors
+4. Alcohol
+  a. framents sleep
+  b. suppresses REM sleep
+5. Legacy 9 to 5 work schedule (plus commuting)
+  a. night owls are forced to wake up earlier than their natural circadian rhythm is tuned for
