@@ -137,7 +137,7 @@
   * The immune system activates the sleep system to help the body recover
   * Provides a more powerful antibody response to vaccines
 
-## How and Why We Dream
+## Part 3: How and Why We Dream
 
 ### Chapter 9: Routinely Psychotic
 
@@ -190,7 +190,7 @@ REM sleep helps us to recalibrate the regions of our brain which are responsible
   * Control and manipulate the experience
   * May be next step in human evolution to focus the problem solving capabilities of dreaming
 
-## From Sleeping Pills to Society Transformed
+## Part 4: From Sleeping Pills to Society Transformed
 
 ### Chapter 12: Things That Go Bump in the Night
 
