@@ -225,3 +225,23 @@ Five causes of less sleep in modern society:
   b. suppresses REM sleep
 5. Legacy 9 to 5 work schedule (plus commuting)
   a. night owls are forced to wake up earlier than their natural circadian rhythm is tuned for
+
+### Chapter 14: Hurting and Helping Your Sleep
+
+#### Sleeping Pills
+
+* Poor sleep quality is induced via sleeping pills which creates sleep which lacks the largest and deepest brainwaves
+* When quitting sleeping pills, rebound insomnia causes many individuals to experience worse sleep than they experienced before trying sleeping pills
+* Folks who take sleeping pills are more likely to die and get cancer
+
+#### Cognitive Behavioral Therapy for Insomnia (CBT-I)
+
+* No LED tech during night time
+* Regular sleep and wake times
+* Only go to bed when sleepy
+* Avoid lying in bed awake for extended periods of time
+* Avoid daytime napping
+* Reduce dwelling upon negative emotions (anxiety/rumination)
+* Remove digital clocks from bedroom (preventing clock watching anxiety)
+* Increased physical activity during the daytime
+* Avoid going to bed too hungry or too full
