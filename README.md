@@ -267,3 +267,13 @@ Five causes of less sleep in modern society:
   * Adderall (amphetamine + salts) and Ritalin (methylphenidate) are two powerful drugs which prevent sleep
   * More then 50% of kids with an ADHD diagnosis actually have a sleep disorder
     * Many parents are ignorant of their kids sleep deprivation
+
+### Chapter 16: A New Vision for Sleep in the Twenty-First Century
+
+**⭐️ The silent sleep loss epidemic is the greatest health challenge for developed nations in the twenty-first century**
+
+* Smart homes can help us sleep better by to avoiding overexposure to nighttime light and keeping the home cooler at nighttime.
+* Insufficient sleep makes us more sensitive to pain
+  * Sleep is a natural analgesic, without sleep our pain is intensified
+* Dowsy driving is responsible for more car accidents than drugs or alcohol
+  * We spend a tiny fraction of the transportation safety budget to raise awareness
