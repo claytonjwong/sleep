@@ -245,3 +245,25 @@ Five causes of less sleep in modern society:
 * Remove digital clocks from bedroom (preventing clock watching anxiety)
 * Increased physical activity during the daytime
 * Avoid going to bed too hungry or too full
+
+### Chapter 15: Sleep and Society
+
+**😵 Insufficient sleep is commonly tolerated and even encouraged**
+* Sleepy employees are unproductive employees
+  * Folks who slept less selected less challenging problems
+    * Opting for easy way out
+    * Generate fewer creative solutions
+  * Insufficient sleep means we work less productively and need to work longer to accomplish tasks
+    * This creates a negative feedback loop since we work longer and get even less sleep
+    * Employees are less motivated, less happy, lazier, and more unethical
+      * Sleepy folks are more likely blame others for their mistakes and take credit for other people's successes
+    * Sleepy managers have less self-control and are more abusive
+
+**😀 Google allows employees to start working later in the day and provides dedicated relaxation rooms and nap pods**
+* This is important for night owls since REM sleep occurs as the last phase of sleep
+  * a lack of REM sleep creates an unstable mental state
+
+**⭐️ Link between sleep deficiency and the epidemic of ADHD**
+  * Adderall (amphetamine + salts) and Ritalin (methylphenidate) are two powerful drugs which prevent sleep
+  * More then 50% of kids with an ADHD diagnosis actually have a sleep disorder
+    * Many parents are ignorant of their kids sleep deprivation
