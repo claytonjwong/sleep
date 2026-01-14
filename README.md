@@ -182,7 +182,7 @@ REM sleep helps us to recalibrate the regions of our brain which are responsible
 
 ### Chapter 11: Dream Creativity and Dream Control
 
-* During REM sleep, the brain is biased towards seeking out the most distance nonobvious links between sets of information
+* During REM sleep, the brain is biased towards seeking out the most distant nonobvious links between sets of information
   * When we are awake, we often see a narrow set of all possible memory interrelationships
 * REM sleep helps us transform learning into comprehension via relational memory processing
   * The dreaming algorithm cherry picks relevant information from previous learning experiences and associates new experiences with preexisting knowledge
