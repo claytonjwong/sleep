@@ -172,8 +172,8 @@ Noradrenaline is completely shut off during REM sleep and is the brain's anxiety
 REM sleep helps us to *remember* and *forget*:
 1. we remember relevant information
 2. we forget irrelevant information and dissolve painful emotional memories
-  a. allows us to move forward into new emotional futures
-  b. not enslaved by traumatic emotional past
+  * allows us to move forward into new emotional futures
+  * not enslaved by traumatic emotional past
 
 REM sleep helps us to recalibrate the regions of our brain which are responsible for reading and decoding emotional signals from others (especially their facial expressions).
   * Lack of REM sleep results in sub-optimally identifying friends vs. foes
