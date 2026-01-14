@@ -164,7 +164,7 @@ Benefits from REM sleep + dreaming:
 1. Emotional and mental health
 2. Problem solving and creativity
 
-Noradrenaline is completely shut off during REM sleep and is the brain's anxiety producing chemical equivalent to the body's adrenaline 
+Noradrenaline is completely shut off during REM sleep and is the brain's anxiety producing chemical equivalent to the body's adrenaline
 * REM sleep is the only time the brain is without noradrenaline
 * Emotional memory reactivation occurs when the brain is free from noradrenaline
   * Removes our emotional edginess by dampening emotional reactions
